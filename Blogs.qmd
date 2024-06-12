@@ -1,0 +1,19 @@
+---
+title: "Blogs"
+listing:
+  contents: Blogs
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  fields:
+    - date
+    - reading-time
+    - description
+    - image
+    - image-alt
+    - categories
+page-layout: full
+title-block-banner: false
+comments: false
+---
