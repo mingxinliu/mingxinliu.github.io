@@ -13,6 +13,10 @@ about:
     - icon: researchgate
       text: RESEARCHGATE
       href: https://www.researchgate.net/profile/Mingxin-Liu
+    - icon: gmail
+      text: GMAIL
+      href: liumx00@gmail.com
+      
 comments: false
 ---
 
