@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "mingxinliu.github.io"
+  title: "Mingxin Liu"
+  
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Research"
+        file: Research.qmd
+      - text: "Publications"
+        file: Publications.qmd
+      - text: "Blogs"
+        file: Blogs.qmd
 
 format:
   html:
@@ -16,5 +20,4 @@ format:
     css: styles.css
     toc: true
 
-
-
+editor: visual

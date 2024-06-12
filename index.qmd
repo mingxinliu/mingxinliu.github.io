@@ -1,11 +1,42 @@
 ---
-title: "mingxinliu.github.io"
+title: ""
+about:
+  template: trestles
+  image: files/Mingxin.jpeg
+  links:
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0003-0436-4058
+    - icon: github
+      text: Github
+      href: https://github.com/mingxinliu
+    - icon: researchgate
+      text: RESEARCHGATE
+      href: https://www.researchgate.net/profile/Mingxin-Liu
+comments: false
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{r, echo=FALSE, eval = TRUE}
+# Based on: https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/#netlify-redirects
+# lines to insert to a netlify _redirect file
+redirects <- paste0("/talk /presentations \n/talks /presentations \n/post /posts")
+# write the _redirect file
+writeLines(redirects, here::here("_site", "_redirects"))
 ```
+
+I am a conservation ecologist and I joined [Lanzhou
+University](https://www.lzu.edu.cn/) in June after my postdoctoral
+research at the [ConservationEE lab](https://www.conservationee.org/) in
+Peking University.
+
+My research interests focus on:
+
+1\) identifying optimal land-use planning strategy for maximizing
+the co-benefits of biodiversity and other essential ecosystem services;
+
+2\) understanding the biodiversity responses to land-use change and the
+underlying ecological processes.
+
+I use empirical data, meta-analytical and simulation approaches to
+identify opportunities for safeguarding biodiversity and delivering
+broader benefits.
