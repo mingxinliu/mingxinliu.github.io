@@ -1,0 +1,10 @@
+---
+title: "Relative importance of landscape factors on biodiversity recovery"
+image: landscape-factors.jpg
+image-alt: landscape-factors
+categories:
+  - Beetles
+  - Biodiversity
+  - Forest restoration
+  - Landscape ecology
+---

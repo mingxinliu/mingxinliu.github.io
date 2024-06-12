@@ -1,0 +1,9 @@
+---
+title: "Performance of DNA metabarcoding for biodiversity monitoring"
+image: metabarcoding.png
+image-alt: metabarcoding
+categories:
+  - Biodiversity
+  - Forest restoration
+  - Landscape ecology
+---

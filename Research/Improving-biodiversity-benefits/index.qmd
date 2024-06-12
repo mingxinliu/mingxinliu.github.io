@@ -1,0 +1,10 @@
+---
+title: "Improving biodiversity benefits of China's ecological forests"
+image: Saihanba.png
+image-alt: Saihanba
+categories:
+  - Forest restoration
+  - Land-use planning
+  - Offsite impact
+  - Biodiversity outcomes
+---
