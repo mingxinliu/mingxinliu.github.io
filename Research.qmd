@@ -1,0 +1,11 @@
+---
+title: "Research"
+listing:
+  contents: Research
+  sort: "title"
+  type: grid
+  image-height: 140px
+page-layout: full
+title-block-banner: false
+comments: false
+---
