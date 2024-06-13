@@ -22,6 +22,10 @@ University](https://www.lzu.edu.cn/) in June after my postdoctoral
 research at the [ConservationEE lab](https://www.conservationee.org/) in
 Peking University.
 
+I use empirical data, meta-analytical and simulation approaches to
+identify opportunities for safeguarding biodiversity and delivering
+broader benefits.
+
 My research interests focus on:
 
 1\) identifying optimal land-use planning strategy for maximizing
@@ -29,7 +33,3 @@ the co-benefits of biodiversity and other essential ecosystem services;
 
 2\) understanding the biodiversity responses to land-use change and the
 underlying ecological processes.
-
-I use empirical data, meta-analytical and simulation approaches to
-identify opportunities for safeguarding biodiversity and delivering
-broader benefits.
