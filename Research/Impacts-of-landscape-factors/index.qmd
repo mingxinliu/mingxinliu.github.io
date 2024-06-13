@@ -24,32 +24,17 @@ facilitate the re-establishment of mature forest species into previously
 harvested areas. However, the capacity of the developing forest after
 disturbance to provide habitat for many mature forest organisms varies
 not only with the internal characteristics of the regenerating forest,
-but also with the relative amount of mature forest in the surrounding
-landscape.
-
-Retained patches in the landscape may facilitate species'
-re-establishment within adjacent harvested areas through the effect of
-the proportion of mature forest ("[landscape
+but also with the relative amount of mature forest ("[landscape
 context](https://fragstats.org/index.php/background/landscape-context)")
-and the effect of distance from mature forest ("forest influence").
-Despite abundant evidence showing forest influence of retained patches
-in harvested areas, few studies have addressed topics concerning
-landscape context (proportion of mature forest in the landscape).
-Additionally, these studies were unable to distinguish the effect
-resulting from the amount of mature forest and proximity to mature
-forest in the surrounding landscape. Prioritizing reservation at site-
-and local-landscape scales is difficult without the knowledge
-abovementioned. Meanwhile, documenting forest biodiversity is
-fundamental to guiding long-term ecologically sustainable management,
-and is also a key step to help us answer these questions.
+in the surrounding landscape.
 
 We set out to quantify the relative importance of landscape, spatial,
 and other factors by surveying beetle diversity in regeneration forest
 sites from each of 16 classes, representing each 125 m and 10% interval
 of forest influence and landscape context, respectively. The age range
-of regeneration forest sites was 40--58 years old (mean 50 years old).
-Twelve representative unlogged mature forest sites were manually
-selected to be welldistributed among the regeneration sites as controls.
+of regeneration forest sites was 40--58 years old. Twelve representative
+unlogged mature forest sites were selected to be well-distributed among
+the regeneration sites as controls.
 
 While the geographic locations of sites accounted for most of composite
 ecological gradients, the beetle community is subtly influenced by the
