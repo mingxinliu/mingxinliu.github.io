@@ -1,9 +1,10 @@
 ---
 title: "Performance of DNA metabarcoding for biodiversity monitoring"
+author: Mingxin Liu
+date: '2023-06-13'
 image: featured1.png
 image-alt: metabarcoding
 categories:
-  - Biodiversity
-  - Forest restoration
-  - Landscape ecology
+  - Beetles
+  - Species abundance
 ---

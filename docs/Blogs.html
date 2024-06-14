@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-reading-time','listing-description','listing-image','listing-image-alt','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-date','listing-description','listing-image','listing-image-alt','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -173,7 +173,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Biodiversity">Biodiversity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Land-use change">Land-use change <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Meta-analysis">Meta-analysis <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -207,6 +207,9 @@ window.Quarto = {
      <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Order By</option>
        <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
          <option value="listing-date-sort" data-direction="asc">
           Date - Oldest
         </option>
@@ -217,7 +220,42 @@ window.Quarto = {
   </div>
 </div>
 <div class="list quarto-listing-default">
-
+<div class="quarto-post image-right" data-index="0" data-categories="Biodiversity,Land-use change,Meta-analysis" data-listing-date-sort="1686585600000" data-listing-file-modified-sort="1718332822633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="433">
+<div class="thumbnail">
+<p><a href="./Blogs/Mixing-biodiversity-metrics/index.html" class="no-external"></a></p><a href="./Blogs/Mixing-biodiversity-metrics/index.html" class="no-external">
+<p><img loading="lazy" src="./Blogs/Mixing-biodiversity-metrics/featured1.png" class="thumbnail-image" alt="metabarcoding"></p>
+</a><p><a href="./Blogs/Mixing-biodiversity-metrics/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./Blogs/Mixing-biodiversity-metrics/index.html" class="no-external">审视荟萃分析中混用生物多样性数量指标的现象及影响</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./Blogs/Mixing-biodiversity-metrics/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Biodiversity'); return false;">
+Biodiversity
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Land-use change'); return false;">
+Land-use change
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Meta-analysis'); return false;">
+Meta-analysis
+</div>
+</div>
+<div class="listing-description">
+<a href="./Blogs/Mixing-biodiversity-metrics/index.html" class="no-external">This is a re-post from the original WeChat blog in Mandarin.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./Blogs/Mixing-biodiversity-metrics/index.html" class="no-external">
+<div class="listing-date">
+Jun 13, 2023
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
