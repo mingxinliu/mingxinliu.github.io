@@ -1,6 +1,6 @@
 ---
 title: "Performance of DNA metabarcoding for biodiversity monitoring"
-image: metabarcoding.png
+image: featured1.png
 image-alt: metabarcoding
 categories:
   - Biodiversity

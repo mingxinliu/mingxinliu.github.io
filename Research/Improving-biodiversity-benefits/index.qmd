@@ -1,6 +1,6 @@
 ---
 title: "Improving biodiversity benefits of China's ecological forests"
-image: Saihanba.png
+image: featured1.png
 image-alt: Saihanba
 categories:
   - Forest restoration

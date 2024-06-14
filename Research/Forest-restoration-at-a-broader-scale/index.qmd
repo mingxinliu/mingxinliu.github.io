@@ -1,0 +1,10 @@
+---
+title: "Designing forest restoration at a broader scale to deliver multiple benefits"
+image: featured1.png
+image-alt: forest restoration
+categories:
+  - Biodiversity
+  - Forest restoration
+  - Landscape ecology
+  - Land-use planning
+---
