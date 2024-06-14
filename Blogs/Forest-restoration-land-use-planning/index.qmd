@@ -1,0 +1,13 @@
+---
+title: '整合森林恢复到更大空间尺度的土地利用规划'
+author: Mingxin Liu
+date: '2024-06-14'
+image: featured1.png
+image-alt: land-use planning
+categories:
+  - Biodiversity
+  - Ecosystem services
+  - Land-use change
+  - Landscape ecology
+  - Offsite impact
+---
