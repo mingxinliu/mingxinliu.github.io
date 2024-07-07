@@ -18,7 +18,7 @@ comments: false
 ---
 
 I am a conservation ecologist and I joined [Lanzhou
-University](https://www.lzu.edu.cn/) as an Assistant Professor in June
+University](https://www.lzu.edu.cn/) as an Assistant Professor in July
 after my postdoctoral research at the [ConservationEE
 lab](https://www.conservationee.org/) in Peking University.
 
