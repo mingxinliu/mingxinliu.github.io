@@ -9,11 +9,7 @@ output: html_document
 
 Hua F\*, **Liu M**, Wang Z. (2024). Integrating forest restoration into
 land-use planning at large spatial scales. Current Biology, 34,
-R452--R472. <https://doi.org/10.1016/j.cub.2024.02.034>
-
-```{=html}
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-```
+R452--R472. <https://doi.org/10.1016/j.cub.2024.02.034><span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2024.02.034" data-legend="hover-right" data-style="large_rectangle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <br>
 
 ## 2023
@@ -21,30 +17,20 @@ R452--R472. <https://doi.org/10.1016/j.cub.2024.02.034>
 **Liu M**, Chen Y, Dou M, Miao X, Ren X, Zhang S, Hua F\*. (2023).
 Designing goal-appropriate forest restoration at a broader scale.
 Environmental Research Letters, 18, 121003.
-<https://dx.doi.org/10.1088/1748-9326/ad0ad1>
-
-```{=html}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-```
+<https://dx.doi.org/10.1088/1748-9326/ad0ad1><span class="__dimensions_badge_embed__" data-doi="10.1088/1748-9326/ad0ad1" data-legend="hover-right" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <br>
 
 **Liu M**, Miao X, Hua F\*. (2023). The perils of measuring biodiversity
 responses to habitat change using mixed metrics. Conservation Letters,
 16, e12959. <https://doi.org/10.1111/conl.12959> [\[WeChat blog in
 Mandarin\]](https://mp.weixin.qq.com/s/1O-sOI0G4_oPSu8S4d6CiA)
-
-```{=html}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-```
+<span class="__dimensions_badge_embed__" data-doi="10.1111/conl.12959" data-legend="hover-right" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <br>
 
 **Liu M**\*, Burridge CP, Clarke LJ, Baker SC, Jordan GJ. (2023). Does
 phylogeny explain bias in quantitative DNA metabarcoding? Metabarcoding
 and Metagenomics, 7, 73--88. <https://doi.org/10.3897/mbmg.7.101266>
-
-```{=html}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-```
+<span class="__dimensions_badge_embed__" data-doi="10.3897/mbmg.7.101266" data-legend="hover-right" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <br>
 
 ## 2022
@@ -53,21 +39,14 @@ Massart S, Adams I, Al Rwahnih M, ..., **Liu M**, ..., et al. (2022).
 Guidelines for the reliable use of high throughput sequencing
 technologies to detect plant pathogens and pests. Peer Community
 Journal, 2, e62. <https://doi.org/10.24072/pcjournal.181>
-
-```{=html}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-```
+<span class="__dimensions_badge_embed__" data-doi="10.24072/pcjournal.181" data-legend="hover-right" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <br>
 
 Lebas B, Adams I, AI Rwahnih M, ..., **Liu M**, ..., et al. (2022).
 Facilitating the adoption of high-throughput sequencing technologies as
 a plant pest diagnostic test in laboratories: A step-by-step
 description. EPPO Bulletin, 52, 394--418.
-<https://doi.org/10.1111/epp.12863>
-
-```{=html}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-```
+<https://doi.org/10.1111/epp.12863><span class="__dimensions_badge_embed__" data-doi="10.1111/epp.12863" data-legend="hover-right" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <br>
 
 ## 2021
@@ -75,11 +54,7 @@ description. EPPO Bulletin, 52, 394--418.
 **Liu M**\*, Jordan GJ, Burridge CP, Clarke LJ, Baker SC. (2021).
 Metabarcoding reveals landscape drivers of beetle community composition
 approximately 50 years after timber harvesting. Forest Ecology and
-Management, 488, 119020. <https://doi.org/10.1016/j.foreco.2021.119020>
-
-```{=html}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-```
+Management, 488, 119020. <https://doi.org/10.1016/j.foreco.2021.119020><span class="__dimensions_badge_embed__" data-doi="10.1016/j.foreco.2021.119020" data-legend="hover-right" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <br>
 
 ## 2020
@@ -87,28 +62,16 @@ Management, 488, 119020. <https://doi.org/10.1016/j.foreco.2021.119020>
 **Liu M**\*, Baker SC, Burridge CP, Jordan GJ, Clarke LJ. (2020). DNA
 metabarcoding captures subtle differences in forest beetle communities
 following disturbance. Restoration Ecology, 28, 1475--1484.
-<https://doi.org/10.1111/rec.13236>
-
-```{=html}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-```
+<https://doi.org/10.1111/rec.13236><span class="__dimensions_badge_embed__" data-doi="10.1111/rec.13236" data-legend="hover-right" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <br>
 
 **Liu M**\*, Clarke LJ, Baker SC, Jordan GJ, Burridge CP. (2020). A
 practical guide to DNA metabarcoding for entomological ecologists.
-Ecological Entomology, 45, 373--385. <https://doi.org/10.1111/een.12831>
-
-```{=html}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-```
+Ecological Entomology, 45, 373--385. <https://doi.org/10.1111/een.12831><span class="__dimensions_badge_embed__" data-doi="10.1111/een.12831" data-legend="hover-right" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <br>
 
 ## Pre-2020
 
 **Liu M**, Zhang Z\*, Peng Z\*. (2015). The mitochondrial genome of the
 water spider *Argyroneta aquatica* (Araneae: Cybaeidae). Zoologica
-Scripta, 44, 179--190. <https://doi.org/10.1111/zsc.12090>
-
-```{=html}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-```
+Scripta, 44, 179--190. <https://doi.org/10.1111/zsc.12090><span class="__dimensions_badge_embed__" data-doi="10.1111/zsc.12090" data-legend="hover-right" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

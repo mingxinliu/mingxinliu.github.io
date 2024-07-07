@@ -13,6 +13,9 @@ about:
     - icon: researchgate
       text: RESEARCHGATE
       href: https://www.researchgate.net/profile/Mingxin-Liu
+    - icon: LZU
+      text: LZU
+      href: https://ce.lzu.edu.cn:8080/staff/static/show_szdw.html?userId=b43f490217c647ccb52c4c12671d5fe2
       
 comments: false
 ---
@@ -22,10 +25,6 @@ University](https://www.lzu.edu.cn/) as an Assistant Professor in July
 after my postdoctoral research at the [ConservationEE
 lab](https://www.conservationee.org/) in Peking University.
 
-I use empirical data, meta-analytical and simulation approaches to
-identify opportunities for safeguarding biodiversity and delivering
-broader benefits.
-
 My research interests focus on:
 
 1\) identifying optimal land-use planning strategy for maximizing the
@@ -33,3 +32,7 @@ co-benefits of biodiversity and other essential ecosystem services;
 
 2\) understanding the biodiversity responses to land-use change and the
 underlying ecological processes.
+
+I use empirical data, meta-analytical and simulation approaches to
+identify opportunities for safeguarding biodiversity and delivering
+broader benefits.
