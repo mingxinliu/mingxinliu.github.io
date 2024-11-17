@@ -21,9 +21,10 @@ comments: false
 ---
 
 I am a conservation ecologist and I joined Lanzhou University as an
-Assistant Professor in July. I will be recruiting master students for
-admission in the fall of 2025. Please [contact
-me](liumingxin@lzu.edu.cn) if you are interested in joining the lab.
+Assistant Professor in July, 2024. I will be recruiting master students
+for admission in the fall of 2025. Please [contact
+me](mailto: liumingxin@lzu.edu.cn) if you are interested in joining the
+lab.
 
 My research interests focus on:
 
@@ -33,6 +34,6 @@ co-benefits of biodiversity and other essential ecosystem services;
 2\) understanding the biodiversity responses to land-use change and the
 underlying ecological processes.
 
-I use empirical data, meta-analytical and simulation approaches to
+I use empirical data, meta-analysis and simulation approaches to
 identify opportunities for safeguarding biodiversity and delivering
-broader benefits.
+ecosystem services.
